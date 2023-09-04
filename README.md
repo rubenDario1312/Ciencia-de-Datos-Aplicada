@@ -18,4 +18,4 @@ Para evidenciar los resultados del taller, por favor corra el cuaderno de Jupyte
 
 El archivo .csv corresponde a la base de datos escogida para el presente estudio, en este caso Buenos Aires Argentina.
 
-
+En caso de correrlo en Google Colab y que no se pase la carpeta data, junto con la información que contiene. Por favor antes de correr el codigo, cree la carpeta data, en la misma carpeta donde esta el cuadero de Jupyter, y dentro coloque la información listings.csv.gz
